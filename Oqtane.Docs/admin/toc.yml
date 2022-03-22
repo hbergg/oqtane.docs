@@ -6,7 +6,7 @@
   href: site-administration/toc.yml
   homepage: site-administration/
 
-- name: Installation
+- name: Installation & Initialization
   href: installation/index.md
   # href: installation/toc.yml
   # homepage: installation/
